@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+
+{% block body %}
+<div class="container-fluid">
+    <h2>Title: {{ post.title }}</h2>
+    <p>Due:{{ post.due.date() }} &nbsp; Priority: {{ post.priority}}</p> 
+    <p>Detail: {{ post.detail }}</p>
+</div>
+
+
+{% endblock%}
