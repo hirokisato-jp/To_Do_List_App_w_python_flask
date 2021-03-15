@@ -14,6 +14,13 @@ The to-do consists of title of the event, its detail, the due date and its prior
 <img width="750" alt="Screen Shot 2021-03-14 at 8 54 51 PM" src="https://user-images.githubusercontent.com/71889206/111091458-5d36bb80-8509-11eb-8a4d-6687ba647fc7.png">
 After creating a task, you are able to either look at the detail of the task, update, or delete the task.
 
+### When the due is close
+<img width="750" alt="Screen Shot 2021-03-14 at 9 13 03 PM" src="https://user-images.githubusercontent.com/71889206/111091685-2319e980-850a-11eb-9e1c-3ebb227c9b78.png">
+When the due is within 24 hours, it sends the warning that the due for the event is today.  
+
+## When the due is passed. 
+<img width="750" alt="Screen Shot 2021-03-14 at 9 14 47 PM" src="https://user-images.githubusercontent.com/71889206/111091740-552b4b80-850a-11eb-8641-620627cc57fd.png">
+When the due date is passed, it informs you that the due date has passed with red warning message. 
 
 ## Concepts
 Python.
